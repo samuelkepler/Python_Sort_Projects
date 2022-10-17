@@ -1,8 +1,17 @@
-#Se o ano do seu aniversário for um número ÍMPAR:
+#Questão 1 (2,5 pontos)
 
-#Calcule e mostre a média dos valores;
-#Calcule e mostre a quantidade de valores acima da média calculada;
-#Calcule e mostre a quantidade de valores abaixo de 7;
+#Desenvolva um programa que leia um número indeterminado de valores, correspondentes a notas, encerrando a entrada de dados quando for informado um valor igual a -1 
+#(que não deve ser armazenado). Após esta entrada de dados, faça:
+
+#Se o ano do seu aniversário for um número PAR:
+ #Mostre a quantidade de valores que foram lidos;
+ #Exiba todos os valores na ordem decrescente em que foram informados;
+ #Calcule e mostre a soma dos valores;
+
+#Se o ano do seu aniversário for um número ÍMPAR:
+ #Calcule e mostre a média dos valores;
+ #Calcule e mostre a quantidade de valores acima da média calculada;
+ #Calcule e mostre a quantidade de valores abaixo de 7;
 #--------------------------------------------------------------------------------------------------------------
 
 todosVal = []
